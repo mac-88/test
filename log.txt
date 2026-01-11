@@ -13,6 +13,9 @@ http://line.greatstar.me:80/c/
 
 http://line.linehunt.org/c/
 00:1A:79:B6:DD:6C
+00:1A:79:65:A3:C0
+00:1A:79:77:34:7D
+00:1A:79:B5:DE:64
 
 http://line.my-tv.cc/c/
 00:1A:79:D3:26:90
@@ -30,3 +33,4 @@ http://prixon.abcott.me/c/
 
 http://prixon.abcott.me:80/c/
 00:1A:79:BA:3D:EC
+
