@@ -30,3 +30,9 @@ http://line.myunityhost.com/c/
 
 http://23232.top:80/c/
 00:1A:79:40:1D:AA
+
+http://mag.trexlive.me:80/c/
+00:1A:79:82:C4:43
+00:1A:79:AD:BF:95
+00:1A:79:B6:5D:D1
+00:1A:79:FB:51:0D
