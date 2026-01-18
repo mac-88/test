@@ -27,3 +27,6 @@ http://line.my-tv.cc/c/
 
 http://line.myunityhost.com/c/
 00:1A:79:1C:03:EA
+
+http://23232.top:80/c/
+00:1A:79:40:1D:AA
