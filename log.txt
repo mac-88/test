@@ -1,36 +1,29 @@
 http://5frtv.site:80/c/
+00:1A:79:BF:D2:9A
 00:1A:79:D8:A2:23
+00:1B:79:48:59:37
+00:1B:79:DA:C9:C9
+00:1B:79:F8:EA:97
+00:1B:79:F9:41:9C
 
 http://alpha-2ott.me/c/
 00:1A:79:84:0D:FC
 00:1A:79:A1:0D:F1
 
-http://line.greatstar.me:80/c/
-00:1A:79:7E:6E:26
-00:1A:79:7F:27:9F
-00:1B:79:19:B7:9C
-00:1B:79:C0:19:7D
-
-http://line.linehunt.org/c/
-00:1A:79:B6:DD:6C
-00:1A:79:65:A3:C0
+http://line.linehunt.org:80/c/
 00:1A:79:77:34:7D
 00:1A:79:B5:DE:64
+00:1A:79:B6:DD:6C
+00:1A:79:FB:11:21
+00:1B:79:33:53:CD
+00:1B:79:33:59:5E
+00:1B:79:34:59:B1
+00:1B:79:41:13:36
+00:1B:79:F9:57:41
 
 http://line.my-tv.cc/c/
-00:1A:79:D3:26:90
-
-http://line.my-tv.cc:80/c/
 00:1A:79:19:40:C2
+00:1A:79:B6:C9:E0
 
 http://line.myunityhost.com/c/
 00:1A:79:1C:03:EA
-
-http://prixon.abcott.me/c/
-00:1A:79:B4:EE:39
-00:1A:79:B4:F0:43
-00:1A:79:B6:C4:C0
-
-http://prixon.abcott.me:80/c/
-00:1A:79:BA:3D:EC
-
