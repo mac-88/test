@@ -21,18 +21,14 @@ http://line.linehunt.org:80/c/
 00:1B:79:41:13:36
 00:1B:79:F9:57:41
 
-http://line.my-tv.cc/c/
-00:1A:79:19:40:C2
-00:1A:79:B6:C9:E0
 
 http://line.myunityhost.com/c/
 00:1A:79:1C:03:EA
 
-http://23232.top:80/c/
-00:1A:79:40:1D:AA
 
 http://mag.trexlive.me:80/c/
 00:1A:79:82:C4:43
 00:1A:79:AD:BF:95
 00:1A:79:B6:5D:D1
 00:1A:79:FB:51:0D
+
