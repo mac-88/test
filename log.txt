@@ -1,39 +1,77 @@
+http://25981-inter.tx-4kott.com:80/c/
+00:1B:79:44:25:42
+
 http://5frtv.site:80/c/
-00:1A:79:BF:D2:9A
 00:1A:79:D8:A2:23
-00:1B:79:DA:C9:C9
 00:1B:79:F8:EA:97
 00:1B:79:F9:41:9C
+
+http://ab-123.cc:80/c/
+00:1B:79:25:1B:C6
+00:1B:79:34:79:85
+00:1B:79:41:3B:1A
+00:1B:79:E7:C2:42
+00:1B:79:F9:79:4C
 
 http://alpha-2ott.me:80/c/
 00:1A:79:84:0D:FC
 00:1A:79:A1:0D:F1
 
-http://cname.pingtx.me:80/c/
-00:1A:79:46:73:35
+http://api-tx.cloud24-cdn.cloud:80/c/
+00:1B:79:33:2D:30
+00:1B:79:33:76:B9
+00:1B:79:34:40:B5
+00:1B:79:36:1E:38
+00:1B:79:F8:B9:01
+
+http://big.ipfr.tv:80/c/
+00:1B:79:33:01:AB
+00:1B:79:49:0C:77
+00:1B:79:49:2D:91
+
+http://bolachas.live:80/c/
+00:1B:79:1D:4C:02
+00:1B:79:41:30:FE
+00:1B:79:47:6D:42
+
+http://cam.access.ly:80/c/
+10:27:BE:3E:55:AF
+
+http://cnametx.cdn-mix.cloud:80/c/
+00:1B:79:1C:82:3A
+00:1B:79:1D:2F:6B
+
+http://dksmedia.tv:80/c/
+00:1B:79:41:26:F9
+00:1B:79:48:6B:01
+00:1B:79:FF:01:75
 
 http://globalgnet.live:80/c/
 00:1A:79:7E:F7:4D
-00:1B:79:1C:2A:A5
 
 http://klaratv.com:80/c/
 00:1A:79:1B:A7:D1
+10:27:BE:3E:5C:05
 
 http://line.linehunt.org:80/c/
 00:1A:79:77:34:7D
 00:1A:79:B6:DD:6C
 00:1B:79:33:53:CD
-00:1B:79:33:59:5E
 00:1B:79:41:13:36
 00:1B:79:F9:57:41
+
+http://line.liveott.ru:80/c/
+10:27:BE:24:13:72
 
 http://line.myunityhost.com:80/c/
 00:1A:79:1C:03:EA
 00:1B:79:F8:98:89
 
 http://mag.trexlive.me:80/c/
-00:1A:79:82:C4:43
-00:1A:79:AD:BF:95
-00:1A:79:B5:AD:D4
 00:1A:79:B6:5D:D1
 
+http://mag.tx-ott.me:80/c/
+10:27:BE:26:E4:DD
+
+http://plpls-lite.ch:80/c/
+10:27:BE:32:0F:6E
