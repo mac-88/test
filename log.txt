@@ -10,8 +10,6 @@ http://ab-123.cc:80/c/
 00:1B:79:25:1B:C6
 00:1B:79:34:79:85
 00:1B:79:41:3B:1A
-00:1B:79:E7:C2:42
-00:1B:79:F9:79:4C
 
 http://alpha-2ott.me:80/c/
 00:1A:79:84:0D:FC
@@ -22,7 +20,6 @@ http://api-tx.cloud24-cdn.cloud:80/c/
 00:1B:79:33:76:B9
 00:1B:79:34:40:B5
 00:1B:79:36:1E:38
-00:1B:79:F8:B9:01
 
 http://big.ipfr.tv:80/c/
 00:1B:79:33:01:AB
@@ -49,13 +46,15 @@ http://dksmedia.tv:80/c/
 http://globalgnet.live:80/c/
 00:1A:79:7E:F7:4D
 
+http://iptvnow.nl:80/c/
+00:1A:79:BF:D1:CF
+
 http://klaratv.com:80/c/
 00:1A:79:1B:A7:D1
 10:27:BE:3E:5C:05
 
 http://line.linehunt.org:80/c/
 00:1A:79:77:34:7D
-00:1A:79:B6:DD:6C
 00:1B:79:33:53:CD
 00:1B:79:41:13:36
 00:1B:79:F9:57:41
@@ -73,5 +72,8 @@ http://mag.trexlive.me:80/c/
 http://mag.tx-ott.me:80/c/
 10:27:BE:26:E4:DD
 
-http://plpls-lite.ch:80/c/
-10:27:BE:32:0F:6E
+http://official8k.com:80/c/
+00:1A:79:03:10:6F
+
+http://ya.pingtx.me:80/c/
+A0:BB:3E:80:12:C7
