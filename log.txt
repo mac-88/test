@@ -1,9 +1,7 @@
-http://25981-inter.tx-4kott.com:80/c/
-00:1B:79:44:25:42
+http://256.myvnc.com:80/c/
+00:1B:79:1C:9C:E6
 
 http://5frtv.site:80/c/
-00:1A:79:D8:A2:23
-00:1B:79:F8:EA:97
 00:1B:79:F9:41:9C
 
 http://ab-123.cc:80/c/
@@ -13,10 +11,8 @@ http://ab-123.cc:80/c/
 
 http://alpha-2ott.me:80/c/
 00:1A:79:84:0D:FC
-00:1A:79:A1:0D:F1
 
 http://api-tx.cloud24-cdn.cloud:80/c/
-00:1B:79:33:2D:30
 00:1B:79:33:76:B9
 00:1B:79:34:40:B5
 00:1B:79:36:1E:38
@@ -29,7 +25,6 @@ http://big.ipfr.tv:80/c/
 http://bolachas.live:80/c/
 00:1B:79:1D:4C:02
 00:1B:79:41:30:FE
-00:1B:79:47:6D:42
 
 http://cam.access.ly:80/c/
 10:27:BE:3E:55:AF
@@ -43,54 +38,33 @@ http://dksmedia.tv:80/c/
 00:1B:79:48:6B:01
 00:1B:79:FF:01:75
 
+http://exclusifott.pro:80/c/
+00:1B:79:1C:4B:0E
+00:1B:79:F9:98:27
+
 http://globalgnet.live:80/c/
 00:1A:79:7E:F7:4D
 
-http://iptvnow.nl:80/c/
-00:1A:79:BF:D1:CF
-
 http://klaratv.com:80/c/
-00:1A:79:1B:A7:D1
 10:27:BE:3E:5C:05
 
 http://line.linehunt.org:80/c/
 00:1A:79:77:34:7D
-00:1B:79:33:53:CD
 00:1B:79:41:13:36
 00:1B:79:F9:57:41
-
-http://line.liveott.ru:80/c/
-10:27:BE:24:13:72
 
 http://line.myunityhost.com:80/c/
 00:1A:79:1C:03:EA
 00:1B:79:F8:98:89
 
-http://mag.trexlive.me:80/c/
-00:1A:79:B6:5D:D1
+http://line.plav.cc:80/c/
+00:1A:79:14:9C:BB
 
 http://mag.tx-ott.me:80/c/
 10:27:BE:26:E4:DD
 
-http://official8k.com:80/c/
-00:1A:79:03:10:6F
-
-http://ya.pingtx.me:80/c/
-A0:BB:3E:80:12:C7
-
-http://256.myvnc.com:80/c/
-00:1B:79:1C:9C:E6
-00:1B:79:3D:6A:CE
-
-http://exclusifott.pro:80/c/
-00:1B:79:1C:4B:0E
-00:1B:79:F0:A9:F1
-00:1B:79:F9:98:27
-
-http://line.plav.cc:80/c/
-00:1A:79:14:9C:BB
-
 http://vpn.onair8k.xyz:80/c/
 00:1B:79:41:26:7F
 
-
+http://ya.pingtx.me:80/c/
+A0:BB:3E:80:12:C7
